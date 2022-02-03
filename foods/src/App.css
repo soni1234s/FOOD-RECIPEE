@@ -1,0 +1,18 @@
+.jumbotron{
+  background-color: #BC2C1A;
+  color:white;
+  padding: 80px 20px;
+  text-align: center;
+}
+.brand-icon{
+  font-size: 100px;
+}
+.card{
+  background-color: white;
+  box-shadow: black;
+}
+
+.list-group-item{
+  background-color: green;
+  color: #F5F5F5;
+}
